@@ -1,0 +1,1 @@
+Axios sederhananya adalah Axios library open-source yang digunakan untuk membuat permintaan HTTP asinkron ke endpoint REST di browser dan Node.js. Axios berbasis Promise dan dapat digunakan dalam JavaScript biasa serta dalam framework JavaScript modern seperti React, Angular, dan Vue.js
